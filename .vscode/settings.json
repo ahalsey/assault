@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/home/xan/.local/share/virtualenvs/assault-oYNXvvRs/bin/python"
+    "python.linting.enabled": true
+    "editor.formatOnSave": true
+    "python.formatting.provider": "black"
+}
